@@ -559,6 +559,9 @@ body {
   .episode-content p {
     font-size: 0.9rem;
   }
+  .episode-card {
+     width: 80%;
+  }
 }
 
 /* Full Episodes Button */
