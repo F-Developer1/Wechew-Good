@@ -704,6 +704,8 @@ body {
   .contact-item {
     width: 32%;
   }
+  .card-content p{
+    font-size: 0.5rem;
 }
 
 /* Closing Section */
