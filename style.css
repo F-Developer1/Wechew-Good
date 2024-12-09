@@ -555,7 +555,11 @@ body {
   .episode-content h2 {
     font-size: 1.2rem;
   }
-
+   .episodes-grid{
+     display:flex;
+     flex-direction: row;
+     
+   }
   .episode-content p {
     font-size: 0.9rem;
   }
